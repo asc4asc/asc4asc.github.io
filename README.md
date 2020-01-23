@@ -1,4 +1,4 @@
-### Komplette Checkliste Degen:
+# Komplette Checkliste Degen:
 * Fechtpass, Lizenzausdruck, Gesundheitszeugniss, Turnierausschreibung.
 * Maske, Handschuh, Jacke, Plaston, Turnschuhe, Fechtsocken, Fechthose, Brustschutz  
 * Trainigshose, Trainigsjacke
