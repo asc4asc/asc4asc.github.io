@@ -1,4 +1,6 @@
-# Komplette Checkliste Degen:
+# Simple Page: Wikitest
+
+## Komplette Checkliste Degen:
 * Fechtpass, Lizenzausdruck, Gesundheitszeugniss, Turnierausschreibung.
 * Maske, Handschuh, Jacke, Plaston, Turnschuhe, Fechtsocken, Fechthose, Brustschutz  
 * Trainigshose, Trainigsjacke
@@ -20,9 +22,7 @@ Friedensstraße 22
 ASchockenhoff@fechten-hamm.de
 ```
 
-# Simple Page: Wikitest
 
-Stress-Terminal UI, s-tui,  monitors CPU temperature, frequency, power and utilization in a graphical way from the terminal. 
 
 ## Screenshot
 ![](https://github.com/amanusk/s-tui/blob/master/ScreenShots/s-tui-1.0.gif?raw=true)
