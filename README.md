@@ -1,10 +1,4 @@
-# The Stress Terminal UI: s-tui
-
-[![Build Status](https://travis-ci.org/amanusk/s-tui.svg?branch=master)](https://travis-ci.org/amanusk/s-tui)
-[![PyPI version](https://badge.fury.io/py/s-tui.svg)](https://badge.fury.io/py/s-tui)
-[![Downloads](https://pepy.tech/badge/s-tui/month)](https://pepy.tech/project/s-tui)
-
-![](https://github.com/amanusk/s-tui/blob/master/ScreenShots/s-tui-logo-small.png?raw=true)
+# Simple Page: Wikitest
 
 Stress-Terminal UI, s-tui,  monitors CPU temperature, frequency, power and utilization in a graphical way from the terminal. 
 
