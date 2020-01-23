@@ -10,6 +10,7 @@
 * Geld, Handy, Etwas zum trösten ... Schockolade ...
 * Lehre, Gewicht, Werkzeug...
 * Ersatzwaffen, Ersatzteile
+* Sprungseil zum aufwärmen
 * Werkzeug, Gewicht, Lehre
 ##### Fechtpass nicht am Turnierort vergessen! Als letzter nochmal nach liegen gebliebenen Fechtpässen aus Hamm fragen. :-)
 
