@@ -1,19 +1,5 @@
-## Komplette Checkliste Degen:
-* Fechtpass, Lizenzausdruck, Gesundheitszeugniss, Turnierausschreibung.
-* Maske, Handschuh, Jacke, Plaston, Turnschuhe, Fechtsocken, Fechthose, Brustschutz  
-* Trainigshose, Trainigsjacke
-* mindestens 2 Kabel und Waffen.
-* T-Schirts .... zum wechseln
-* Getränke, Essen
-* Duschzeug, Handtuch, Badelatschen, Wäsche zum wechseln
-* Fahrt zum Turnierort organisieren.
-* Geld, Handy, Etwas zum trösten ... Schockolade ...
-* Lehre, Gewicht, Werkzeug...
-* Ersatzwaffen, Ersatzteile
-* Sprungseil zum aufwärmen
-* Werkzeug, Gewicht, Lehre
-##### Fechtpass nicht am Turnierort vergessen! Als letzter nochmal nach liegen gebliebenen Fechtpässen aus Hamm fragen. :-)
-
+## Fechten in Hamm
+* 
 ```
 Andreas Schockenhoff
 Friedensstraße 22
