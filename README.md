@@ -1,13 +1,13 @@
 ## Fechten in Hamm
 * [https://www.tus59hamm.de/fechten/](https://www.tus59hamm.de/fechten)
 * [https://asc4asc.github.io/fechten/](https://asc4asc.github.io/fechten/) 
-* [https://asc4asc.github.io/beautiful-jekyll/](https://asc4asc.github.io/beautiful-jekyll/)
+* [Blog](https://asc4asc.github.io/beautiful-jekyll/)
 
 ## Einzelne Seiten
-* https://asc4asc.github.io/mot/
-* https://asc4asc.github.io/games/ 
-* https://asc4asc.github.io/footwork/
-* https://asc4asc.github.io/check/
+* [https://asc4asc.github.io/mot/](https://asc4asc.github.io/mot/)
+* [https://asc4asc.github.io/games/](https://asc4asc.github.io/games/) 
+* [https://asc4asc.github.io/footwork/](https://asc4asc.github.io/footwork/)
+* [https://asc4asc.github.io/check/](https://asc4asc.github.io/check/)
 
 
 ```
