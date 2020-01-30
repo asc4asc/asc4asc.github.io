@@ -1,6 +1,6 @@
-## Fechten in Hamm
-* [https://www.tus59hamm.de/fechten/](https://www.tus59hamm.de/fechten)
-* [Die neue Start Seite fürs Fechten intern](https://asc4asc.github.io/beautiful-jekyll/)
+## Links die ich empfehle!
+* [Offizielle Seite TuS Hamm Fechtabteilung: https://www.tus59hamm.de/fechten/](https://www.tus59hamm.de/fechten)
+* [Start Seite für die aktiven Fechter aus Hamm](https://asc4asc.github.io/beautiful-jekyll/)
 
 ```
 Andreas Schockenhoff
