@@ -1,7 +1,7 @@
 ## Fechten in Hamm
 * [https://www.tus59hamm.de/fechten/](https://www.tus59hamm.de/fechten)
 * [https://asc4asc.github.io/fechten/](https://asc4asc.github.io/fechten/) 
-* [Blog die neue Start Seite fürs Fechten](https://asc4asc.github.io/beautiful-jekyll/)
+* [Die neue Start Seite fürs Fechten](https://asc4asc.github.io/beautiful-jekyll/)
 
 ## Einzelne Seiten
 * [https://asc4asc.github.io/mot/](https://asc4asc.github.io/mot/)
