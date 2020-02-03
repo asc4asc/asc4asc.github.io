@@ -8,6 +8,8 @@
 
 * [Seite pure HTML](https://asc4asc.github.io/page/index.html)
 
+* [Beispiele als Alternative](https://github.com/collections/github-pages-examples)
+
 ```
 Andreas Schockenhoff
 Friedensstraße 22
