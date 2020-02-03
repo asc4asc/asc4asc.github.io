@@ -6,6 +6,8 @@
 
 * [Start einer Seite für Vorträge](https://asc4asc.github.io/vortrag/index.html)
 
+* [Seite pure HTML](https://asc4asc.github.io/bootstrap/index.html)
+
 * [Seite pure HTML](https://asc4asc.github.io/page/index.html)
 
 * [Beispiele als Alternative](https://github.com/collections/github-pages-examples)
