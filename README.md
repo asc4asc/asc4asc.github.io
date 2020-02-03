@@ -6,6 +6,8 @@
 
 * [Start einer Seite für Vorträge](https://asc4asc.github.io/vortrag/index.html)
 
+* [Seite pure HTML](https://asc4asc.github.io/page/index.html)
+
 ```
 Andreas Schockenhoff
 Friedensstraße 22
