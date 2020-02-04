@@ -16,9 +16,7 @@
 
 * [Beispiele als Alternative](https://github.com/collections/github-pages-examples)
 
-* [Ein Quiz](https://asc4asc.github.io/Quiz)
-
-* [Noch ein Quiz](https://asc4asc.github.io/QuizApp/)
+* [Ein Quiz](https://asc4asc.github.io/QuizApp/)
 
 ```
 Andreas Schockenhoff
