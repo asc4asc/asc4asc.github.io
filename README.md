@@ -16,7 +16,7 @@
 
 * [Ein Quiz](https://asc4asc.github.io/Quiz)
 
-* [Noch ein Quiz](https://aadeshnichite.github.io/QuizApp/)
+* [Noch ein Quiz](https://asc4asc.github.io/QuizApp/)
 
 ```
 Andreas Schockenhoff
