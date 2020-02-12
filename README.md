@@ -22,7 +22,7 @@
 
 * [Ein Quiz](https://asc4asc.github.io/QuizApp/)
 
-* [Seite mit Quiz und Suche](https://asc4asc.github.io/docsy-jekyll/)
+* [Seite mit Quiz und Suche](https://asc4asc.github.io/fechten-test/)
 
 ```
 Andreas Schockenhoff
