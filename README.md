@@ -10,18 +10,6 @@
 
 * [Start einer Seite für Vorträge](https://asc4asc.github.io/vortrag/index.html)
 
-* [Seite Bootstrap](https://asc4asc.github.io/startbootstrap-freelancer/)
-
-* [Seite pure HTML](https://asc4asc.github.io/page/index.html)
-
-* [Seite pure HTML5](https://asc4asc.github.io/html5)
-
-* [Seite pure HTML5](https://asc4asc.github.io/html5-1)
-
-* [Beispiele als Alternative](https://github.com/collections/github-pages-examples)
-
-* [Ein Quiz](https://asc4asc.github.io/QuizApp/)
-
 * [Seite mit Quiz und Suche](https://asc4asc.github.io/fechten-test/)
 
 ```
