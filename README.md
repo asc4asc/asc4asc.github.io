@@ -4,13 +4,9 @@
 
 * [Deutscher Fechter Bund](http://fechten.org)
 
-## Test Seiten Andreas um neue Möglichkeiten zu erschließen
+## Test Seiten um neue Möglichkeiten zu erschließen
 
 * [Start Seite Fechten (Blog)](https://asc4asc.github.io/fechten-hamm/)
-
-* [Start einer Seite für Vorträge](https://asc4asc.github.io/vortrag/index.html)
-
-* [Seite mit Quiz und Suche](https://asc4asc.github.io/fechten-test/)
 
 ```
 Andreas Schockenhoff
