@@ -10,7 +10,7 @@
 
 * [Start Seite Fechten (Blog)](https://asc4asc.github.io/fechten-hamm/)
 
-- Andreas Schockenhoff
-- Friedensstraße 22
-- 59073 Hamm
-- ASchockenhoff@fechten-hamm.de
+ Andreas Schockenhoff
+ Friedensstraße 22
+ 59073 Hamm
+ ASchockenhoff@fechten-hamm.de
