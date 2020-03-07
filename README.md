@@ -3,7 +3,7 @@
 * [Offizielle Seite TuS Hamm Fechtabteilung:](https://www.tus59hamm.de/fechten)
 
 * [Deutscher Fechter Bund](http://fechten.org)
-* [Westfälischer Fechter Bund](https://fechten-westfalen.nrw/) Leider oft nicht aktuell :-(
+* [Westfälischer Fechter Bund](https://fechten-westfalen.nrw/) Neues unter News - leider oft nicht aktuell :unamused:
 * [Internationaler Fechter Bund](https://fie.org/)
 
 ## Test Seiten um neue Möglichkeiten zu erschließen
