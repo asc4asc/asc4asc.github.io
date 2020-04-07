@@ -8,7 +8,7 @@
 
 ## Test Seiten um neue Möglichkeiten zu erschließen
 
-* [Start Seite Fechten (Blog)](https://asc4asc.github.io/fechten-hamm/)
+* [Start Seite Fechten (Blog)](https://blog.fechten-hamm.de/)
 
 ```
  Andreas Schockenhoff
