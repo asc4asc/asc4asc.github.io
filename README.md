@@ -9,6 +9,9 @@
 ## Test Seiten um neue Möglichkeiten zu erschließen
 
 * [Start Seite Fechten (Blog)](https://blog.fechten-hamm.de/)
+* [Uhr mit Passivitätsanzeige](https://asc4asc.github.io/stopwatch/stopWatch.html)
+* [Melder für die Runde](https://asc4asc.github.io/meld-2)
+* [Tableau für 4](https://asc4asc.github.io/tableau-2)
 
 ```
  Andreas Schockenhoff
