@@ -9,7 +9,7 @@
 ## Test Seiten um neue Möglichkeiten zu erschließen
 
 * [Start Seite Fechten (Blog)](https://blog.fechten-hamm.de/)
-* [Melder für die DA auf 15 Treffer](https://asc4asc.github.io/melder-16)
+* [Melder für die DA auf 15 Treffer](https://asc4asc.github.io/meld-16)
 * [Melder für die Runde auf 5 Treffer](https://asc4asc.github.io/meld-2)
 * [Tableau für 4 (Eigentlich einfache Demo für TRP)](https://asc4asc.github.io/tableau-2)
 * [Test von Ideen für den Fecht (Blog)](https://test-blog.fechten-hamm.de/)
