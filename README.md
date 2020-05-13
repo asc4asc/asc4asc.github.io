@@ -10,7 +10,7 @@
 
 * [Start Seite Fechten (Blog)](https://blog.fechten-hamm.de/)
 * [Melder für die DA auf 15 Treffer](https://test-blog.fechten-hamm.de/melder-15/)
-* [Melder für die Runde auf 5 Treffer](https://test-blog.fechten-hamm.de/meld-5)
+* [Melder für die Runde auf 5 Treffer](https://test-blog.fechten-hamm.de/melder-5/)
 * [Tableau für 4 (Eigentlich einfache Demo für TRP)](https://asc4asc.github.io/tableau-2)
 * [Test von Ideen für den Fecht (Blog)](https://test-blog.fechten-hamm.de/)
 ```
