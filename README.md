@@ -5,6 +5,7 @@
 * [Deutscher Fechter Bund](http://fechten.org)
 * [Westfälischer Fechter Bund](https://fechten-westfalen.nrw/) Neues unter News - leider oft nicht aktuell :-(
 * [Internationaler Fechter Bund](https://fie.org/)
+* [Bielefeld Fechten](https://www.fechten-bielefeld.de/)
 
 ## Test Seiten um neue Möglichkeiten zu erschließen
 
