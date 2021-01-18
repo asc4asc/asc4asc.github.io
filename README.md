@@ -15,6 +15,8 @@
 * [Melder für die Runde auf 5 Treffer](https://test-blog.fechten-hamm.de/melder-5/)
 * [Tableau für 4 (Eigentlich einfache Demo für TRP)](https://test-blog.fechten-hamm.de/tableau-5)
 * [Test von Ideen für den Fecht (Blog)](https://test-blog.fechten-hamm.de/)
+* [Test Timer 3 min](https://test-blog-fechten.github.io/c3down-app)
+* [Test Timer 1 min](https://test-blog-fechten.github.io/c1down-app)
 ```
  Andreas Schockenhoff 
  Friedensstraße 22
